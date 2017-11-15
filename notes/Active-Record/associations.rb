@@ -51,6 +51,7 @@ end
 
 class Manager
   has_many :stores
+  has_many :products, through: :stores
   #es realmente
   def stores
     Store.where(manager_id: self.id)
