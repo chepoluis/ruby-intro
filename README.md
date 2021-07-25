@@ -1,6 +1,6 @@
 ## Ejercicios de Introduccion a Ruby
 
-Haz un fork de este repositorio, y luego clonalo a tu computador
+Haz un fork de este repositorio, y luego clónalo a tu computador
 
 despues de clonarlo haz cd al el
 
