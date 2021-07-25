@@ -40,4 +40,4 @@ Abrelo en tu editor de texto y empieza a trabajar en los retos en el siguiente o
 
 ## Mas metodos
 - [Lindo triangulo](./challenges/ruby/19-pretty-triangle)
-- [factorial](./challenges/ruby/20-factorial)
+- [Factorial](./challenges/ruby/20-factorial)
