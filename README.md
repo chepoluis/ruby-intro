@@ -15,7 +15,7 @@ Abrelo en tu editor de texto y empieza a trabajar en los retos en el siguiente o
 ## Numeros, letras y asignacion de variables
 - [Definiendo Variables](./challenges/ruby/1-defining-variables)
 - [Metodos de Strings](./challenges/ruby/2-simple-string-methods)
-- [Operaciones matematicas](./challenges/3-local-variables)
+- [Operaciones matematicas](./challenges/ruby/3-local-variables)
 
 ## Variables y Metodos
 - [Definiendo metodos](./challenges/ruby/4-defining-method)
