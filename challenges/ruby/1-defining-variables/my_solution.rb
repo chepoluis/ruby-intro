@@ -2,7 +2,9 @@
 
 # Tu solucion abajo
 
-first_name = 'local-variable'
+first_name = 'José Luis'
+last_name = 'Villa'
+age = 24
 
 
 # Pruebas NO LAS BORRES
